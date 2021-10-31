@@ -1,0 +1,11 @@
+D:\projects\DesignPatterns\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.deps.json
+D:\projects\DesignPatterns\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.runtimeconfig.json
+D:\projects\DesignPatterns\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.runtimeconfig.dev.json
+D:\projects\DesignPatterns\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.dll
+D:\projects\DesignPatterns\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.pdb
+D:\projects\DesignPatterns\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.csprojAssemblyReference.cache
+D:\projects\DesignPatterns\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.csproj.CoreCompileInputs.cache
+D:\projects\DesignPatterns\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.AssemblyInfoInputs.cache
+D:\projects\DesignPatterns\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.AssemblyInfo.cs
+D:\projects\DesignPatterns\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.dll
+D:\projects\DesignPatterns\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.pdb

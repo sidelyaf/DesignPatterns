@@ -1,0 +1,11 @@
+D:\projects\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryAndAbstractFactoryPattern.deps.json
+D:\projects\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryAndAbstractFactoryPattern.runtimeconfig.json
+D:\projects\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryAndAbstractFactoryPattern.runtimeconfig.dev.json
+D:\projects\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryAndAbstractFactoryPattern.dll
+D:\projects\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryAndAbstractFactoryPattern.pdb
+D:\projects\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryAndAbstractFactoryPattern.csprojAssemblyReference.cache
+D:\projects\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryAndAbstractFactoryPattern.csproj.CoreCompileInputs.cache
+D:\projects\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryAndAbstractFactoryPattern.AssemblyInfoInputs.cache
+D:\projects\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryAndAbstractFactoryPattern.AssemblyInfo.cs
+D:\projects\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryAndAbstractFactoryPattern.dll
+D:\projects\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryAndAbstractFactoryPattern.pdb

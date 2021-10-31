@@ -1,0 +1,11 @@
+D:\projects\DesignPatterns\AdapterAndFacadePatterns\bin\Debug\netcoreapp2.1\AdapterAndFacadePatterns.deps.json
+D:\projects\DesignPatterns\AdapterAndFacadePatterns\bin\Debug\netcoreapp2.1\AdapterAndFacadePatterns.runtimeconfig.json
+D:\projects\DesignPatterns\AdapterAndFacadePatterns\bin\Debug\netcoreapp2.1\AdapterAndFacadePatterns.runtimeconfig.dev.json
+D:\projects\DesignPatterns\AdapterAndFacadePatterns\bin\Debug\netcoreapp2.1\AdapterAndFacadePatterns.dll
+D:\projects\DesignPatterns\AdapterAndFacadePatterns\bin\Debug\netcoreapp2.1\AdapterAndFacadePatterns.pdb
+D:\projects\DesignPatterns\AdapterAndFacadePatterns\obj\Debug\netcoreapp2.1\AdapterAndFacadePatterns.csprojAssemblyReference.cache
+D:\projects\DesignPatterns\AdapterAndFacadePatterns\obj\Debug\netcoreapp2.1\AdapterAndFacadePatterns.csproj.CoreCompileInputs.cache
+D:\projects\DesignPatterns\AdapterAndFacadePatterns\obj\Debug\netcoreapp2.1\AdapterAndFacadePatterns.AssemblyInfoInputs.cache
+D:\projects\DesignPatterns\AdapterAndFacadePatterns\obj\Debug\netcoreapp2.1\AdapterAndFacadePatterns.AssemblyInfo.cs
+D:\projects\DesignPatterns\AdapterAndFacadePatterns\obj\Debug\netcoreapp2.1\AdapterAndFacadePatterns.dll
+D:\projects\DesignPatterns\AdapterAndFacadePatterns\obj\Debug\netcoreapp2.1\AdapterAndFacadePatterns.pdb

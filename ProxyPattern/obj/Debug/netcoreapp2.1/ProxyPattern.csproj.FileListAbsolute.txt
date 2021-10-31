@@ -1,0 +1,13 @@
+D:\projects\DesignPatterns\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.deps.json
+D:\projects\DesignPatterns\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.runtimeconfig.json
+D:\projects\DesignPatterns\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.runtimeconfig.dev.json
+D:\projects\DesignPatterns\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.dll
+D:\projects\DesignPatterns\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.pdb
+D:\projects\DesignPatterns\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.csproj.AssemblyReference.cache
+D:\projects\DesignPatterns\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\DesignPatterns\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.AssemblyInfoInputs.cache
+D:\projects\DesignPatterns\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.AssemblyInfo.cs
+D:\projects\DesignPatterns\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.csproj.CoreCompileInputs.cache
+D:\projects\DesignPatterns\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.dll
+D:\projects\DesignPatterns\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.pdb
+D:\projects\DesignPatterns\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.genruntimeconfig.cache

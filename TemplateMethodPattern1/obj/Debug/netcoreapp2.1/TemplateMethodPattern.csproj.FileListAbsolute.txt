@@ -1,0 +1,12 @@
+D:\projects\DesignPatterns\TemplateMethodPattern1\bin\Debug\netcoreapp2.1\TemplateMethodPattern.deps.json
+D:\projects\DesignPatterns\TemplateMethodPattern1\bin\Debug\netcoreapp2.1\TemplateMethodPattern.runtimeconfig.json
+D:\projects\DesignPatterns\TemplateMethodPattern1\bin\Debug\netcoreapp2.1\TemplateMethodPattern.runtimeconfig.dev.json
+D:\projects\DesignPatterns\TemplateMethodPattern1\bin\Debug\netcoreapp2.1\TemplateMethodPattern.dll
+D:\projects\DesignPatterns\TemplateMethodPattern1\bin\Debug\netcoreapp2.1\TemplateMethodPattern.pdb
+D:\projects\DesignPatterns\TemplateMethodPattern1\obj\Debug\netcoreapp2.1\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+D:\projects\DesignPatterns\TemplateMethodPattern1\obj\Debug\netcoreapp2.1\TemplateMethodPattern.AssemblyInfoInputs.cache
+D:\projects\DesignPatterns\TemplateMethodPattern1\obj\Debug\netcoreapp2.1\TemplateMethodPattern.AssemblyInfo.cs
+D:\projects\DesignPatterns\TemplateMethodPattern1\obj\Debug\netcoreapp2.1\TemplateMethodPattern.dll
+D:\projects\DesignPatterns\TemplateMethodPattern1\obj\Debug\netcoreapp2.1\TemplateMethodPattern.pdb
+D:\projects\DesignPatterns\TemplateMethodPattern1\obj\Debug\netcoreapp2.1\TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\DesignPatterns\TemplateMethodPattern1\obj\Debug\netcoreapp2.1\TemplateMethodPattern.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+D:\projects\DesignPatterns\IteratorAndCompositePattern\bin\Debug\netcoreapp2.1\IteratorAndCompositePattern.deps.json
+D:\projects\DesignPatterns\IteratorAndCompositePattern\bin\Debug\netcoreapp2.1\IteratorAndCompositePattern.runtimeconfig.json
+D:\projects\DesignPatterns\IteratorAndCompositePattern\bin\Debug\netcoreapp2.1\IteratorAndCompositePattern.runtimeconfig.dev.json
+D:\projects\DesignPatterns\IteratorAndCompositePattern\bin\Debug\netcoreapp2.1\IteratorAndCompositePattern.dll
+D:\projects\DesignPatterns\IteratorAndCompositePattern\bin\Debug\netcoreapp2.1\IteratorAndCompositePattern.pdb
+D:\projects\DesignPatterns\IteratorAndCompositePattern\obj\Debug\netcoreapp2.1\IteratorAndCompositePattern.csprojAssemblyReference.cache
+D:\projects\DesignPatterns\IteratorAndCompositePattern\obj\Debug\netcoreapp2.1\IteratorAndCompositePattern.csproj.CoreCompileInputs.cache
+D:\projects\DesignPatterns\IteratorAndCompositePattern\obj\Debug\netcoreapp2.1\IteratorAndCompositePattern.AssemblyInfoInputs.cache
+D:\projects\DesignPatterns\IteratorAndCompositePattern\obj\Debug\netcoreapp2.1\IteratorAndCompositePattern.AssemblyInfo.cs
+D:\projects\DesignPatterns\IteratorAndCompositePattern\obj\Debug\netcoreapp2.1\IteratorAndCompositePattern.dll
+D:\projects\DesignPatterns\IteratorAndCompositePattern\obj\Debug\netcoreapp2.1\IteratorAndCompositePattern.pdb
